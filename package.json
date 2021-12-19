@@ -1,0 +1,23 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiyakanaoka/React-hands-on.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seiyakanaoka/React-hands-on/issues"
+  },
+  "homepage": "https://github.com/seiyakanaoka/React-hands-on#readme",
+  "dependencies": {
+    "name": "^0.0.2"
+  }
+}
